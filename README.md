@@ -30,7 +30,7 @@ Summary of Data Collected
   -- Honeypot-5 Snort                 1,917
   -- Honeypot-6 Kippo                 1,039
 
-- Attack Statistics: ![](https://github.com/Shaimice/Week9/blob/master/Honeypots/Slide5.jpeg)
+- Attack Statistics: (https://github.com/Shaimice/Week9/blob/master/Honeypots/Slide5.jpeg)
 - Top Passwords: ![](https://github.com/Shaimice/Week9/blob/master/Honeypot/Slide1.jpeg)
 - Top User Name: ![](https://github.com/Shaimice/Week9/blob/master/Honeypots/Slide2.jpeg)
 - Top User Name/Password: ![](https://github.com/Shaimice/Week9/blob/master/Honeypots/Slide3.jpeg)
