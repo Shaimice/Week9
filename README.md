@@ -22,7 +22,7 @@ Issues
 Summary of Data Collected
 - Real-time Attack Locater: ![](https://github.com/Shaimice/Week9/blob/master/Map.gif)
 
-- Number of Attacks
+- Number of Attacks:
   -- Honeypot-1 Dionaea               7,624
   -- Honeypot-2 Shockpot Sinkhole        36
   -- Honeypot-3 ElasticHoney              9
