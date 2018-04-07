@@ -30,17 +30,17 @@ Summary of Data Collected
   -- Honeypot-5 Snort                 1,917
   -- Honeypot-6 Kippo                 1,039
 
-- Attack Statistics: (https://github.com/Shaimice/Week9/blob/master/Honeypots/Slide5.jpeg)
-- Top Passwords: ![](https://github.com/Shaimice/Week9/blob/master/Honeypot/Slide1.jpeg)
-- Top User Name: ![](https://github.com/Shaimice/Week9/blob/master/Honeypots/Slide2.jpeg)
-- Top User Name/Password: ![](https://github.com/Shaimice/Week9/blob/master/Honeypots/Slide3.jpeg)
-- Top Attackers: ![](https://github.com/Shaimice/Week9/blob/master/Honeypots/Slide4.jpeg)
+- Attack Statistics: ![](https://github.com/Shaimice/Week9/blob/master/Honeypot/Slide5.JPG)
+- Top Passwords: ![](https://github.com/Shaimice/Week9/blob/master/Honeypot/Slide1.JPG)
+- Top User Name: ![](https://github.com/Shaimice/Week9/blob/master/Honeypot/Slide2.JPG)
+- Top User Name/Password: ![](https://github.com/Shaimice/Week9/blob/master/Honeypot/Slide3.JPG)
+- Top Attackers: ![](https://github.com/Shaimice/Week9/blob/master/Honeypot/Slide4.JPG)
 
 - Number of Malware Samples:  None achieved during collection period
 
 - Unresolved Questions: None at this time.
 
-Session.json: ![](https://github.com/Shaimice/Week9/blob/master/session.json)
+Session.json: (https://github.com/Shaimice/Week9/blob/master/session.json)
 
 Source:
 - The Honeynet Project, https://www.honeynet.org/
